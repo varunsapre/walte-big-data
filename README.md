@@ -1,0 +1,3 @@
+# walte-big-data
+What america likes to eat
+This project aims to visualise popular food across major metropolitan areas in the US. This project aims to help travelers, visitors, immigrants and even locals view the local interest in food and its popularity. To achieve this, we will be using relevant public datasets from reputed companies like Yelp and Foursquare, and creating a ranking algorithm to determine the most popular food type of the stated area. The result will then be displayed on the interactive map, allowing the users to select the desired area to view the most popular food and give insights to America’s food habits.
